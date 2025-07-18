@@ -1,0 +1,23 @@
+# Temporary and binary files
+__pycache__/
+.ipynb_checkpoints/
+
+# IDE files
+*.swp
+.idea/
+.vscode/
+*.swo
+*~
+
+# Output artifacts
+models/
+*.model
+*.pkl
+*.h5
+data/
+output/
+temp/
+tmp/
+
+# macOS
+.DS_Store
